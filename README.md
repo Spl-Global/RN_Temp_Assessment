@@ -22,15 +22,16 @@ Remains the intellectual property of System Plus Pvt. Limited.**
 
 #### React Native Mobile Application Tasks:
 
-1. In mobile application you are supposed to utilize the api devloped in the previous tasks to implement login, sign up and authentication flow. Make good use of AsyncStorage and store signup records at the backend. If I close the app and open it again user must be authenticated if he/she has logged in already.
-2. You are allowed to use navigation library of your choice. React-Navigation and React-Native-Navigation are the preferred navigation libraries.
-3. There will be a login screen and a sigup screen. These routes will be open. Anyone can access these routes.
-4. User will be navigated to a Dashboard screen once he/she logs in or signs up. A dashboard will load the universities data (first 50 for example) at the start and these entries must be shown in the form of a card. Feel free to use any styling library like react-native-paper or native-base etc.
-5. When the list list reaches the end it must give an option to load more universities into the list. And get universities must support it.(Pagination)
-6. There will be a search bar in the header on Dashboard and it must produce search results as we type in it and loads only search results and it must show all the previously loaded universities if we erase all the search input in the search bar. (Make good use of map,filter,reduce)
-7. Each card will be clickable and take us to the University details page that will have the option to edit and delete it. Make sure you alert the user before deleting.
-8. You are going to create an Add University form screen. You will be using the same form to edit the university data. Make good use of navigation params.
-9. All the state management will be done using Redux or Context API.
+1. Navigate to app/ folder and you are provided with React Native application code. For React Native development you will be working in this directory.
+2. In mobile application you are supposed to utilize the api devloped in the previous tasks to implement login, sign up and authentication flow. Make good use of AsyncStorage and store signup records at the backend. If I close the app and open it again user must be authenticated if he/she has logged in already.
+3. You are allowed to use navigation library of your choice. React-Navigation and React-Native-Navigation are the preferred navigation libraries.
+4. There will be a login screen and a sigup screen. These routes will be open. Anyone can access these routes.
+5. User will be navigated to a Dashboard screen once he/she logs in or signs up. A dashboard will load the universities data (first 50 for example) at the start and these entries must be shown in the form of a card. Feel free to use any styling library like react-native-paper or native-base etc.
+6. When the list list reaches the end it must give an option to load more universities into the list. And get universities must support it.(Pagination)
+7. There will be a search bar in the header on Dashboard and it must produce search results as we type in it and loads only search results and it must show all the previously loaded universities if we erase all the search input in the search bar. (Make good use of map,filter,reduce)
+8. Each card will be clickable and take us to the University details page that will have the option to edit and delete it. Make sure you alert the user before deleting.
+9. You are going to create an Add University form screen. You will be using the same form to edit the university data. Make good use of navigation params.
+10. All the state management will be done using Redux or Context API.
 
 ## Instructions:
 
