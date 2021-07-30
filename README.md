@@ -44,26 +44,21 @@ Remains the intellectual property of System Plus Pvt. Limited.**
 
    https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
-3. This repository has a branch named Assessment. Clone/Fork this repository
-   and checkout to Assessment branch.
+3. You are supposed to submit a compilable and runnable code of the solution.
 
-4. In Assessment branch there will be a Readme.md file and it will have detailed tasks information.
+4. Solution in txt files will not be accepted.
 
-5. You are supposed to submit a compilable and runnable code of the solution.
+5. For this Assessment we are supposing that you have a react-native environment setup and node environment to run the server.
 
-6. Solution in txt files will not be accepted.
-
-7. For this Assessment we are supposing that you have a react-native environment setup and node environment to run the server.
-
-8. You will be implementing a mobile app solution along with its backend. Mobile app will be implemented using React Native and a Node.js powered Express backend will be used for APIs. Refer to this link for more information.
+6. You will be implementing a mobile app solution along with its backend. Mobile app will be implemented using React Native and a Node.js powered Express backend will be used for APIs. Refer to this link for more information.
    https://reactnative.dev/docs/environment-setup
 
-9. Mobile app styling is up to you but React Native styling Knowledge and good design will be given more weightage while evaluation. Feel free to use design you have previously worked on.
+7. Mobile app styling is up to you but React Native styling Knowledge and good design will be given more weightage while evaluation. Feel free to use design you have previously worked on.
 
-10. After you are done implementing a task, please add comments in the code file
-    for clear understanding and add a Readme.md file if necessary.
+8. After you are done implementing a task, please add comments in the code file
+   for clear understanding and add a Readme.md file if necessary.
 
-11. This will be an open ended programming exercise. Problem descriptions are
-    provided and you are supposed to implement a solution.
+9. This will be an open ended programming exercise. Problem descriptions are
+   provided and you are supposed to implement a solution.
 
-12. In case of confusions, please contact us at our email.
+10. In case of confusions, please contact us at our email.
