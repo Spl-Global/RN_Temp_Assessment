@@ -22,7 +22,9 @@ Function based React Coding is more optimised with latest versions of React and 
 2. You are not allowed to push code to this repository. Therefore you are
    required to create a copy of this repository on your own account and work on it.
    Hint: Make good use of git clone, git fork, git plugins for vs code etc.
+   
    https://docs.github.com/en/get-started/quickstart/fork-a-repo
+   
    https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 
 1. This repository has a branch named Assessment. Clone/Fork this repository
@@ -36,7 +38,8 @@ Function based React Coding is more optimised with latest versions of React and 
 
 6. For this Assessment we are supposing that you have a react-native environment setup and node environment to run the server.
 
-6. You will be implementing a mobile app solution along with its backend. Mobile app will be implemented using React Native and a Node.js powered Express backend will be used for APIs.
+6. You will be implementing a mobile app solution along with its backend. Mobile app will be implemented using React Native and a Node.js powered Express backend will be used for APIs. Refer to this link for more information.
+https://reactnative.dev/docs/environment-setup
 
 7. Mobile app styling is up to you but React Native styling Knowledge and good design will be given more weightage while evaluation. Feel free to use design you have previously worked on.
 
